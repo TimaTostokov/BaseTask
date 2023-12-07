@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BaseTask</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="todo">TODO</string>
+    <string name="add_task_title">Add task title</string>
+    <string name="add_task">Add Task</string>
+    <string name="taskmodel_title">taskModel.title</string>
+    <string name="delete">Delete</string>
+    <string name="delete_message">Delete this task?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="update">Update</string>
+    <string name="state">State</string>
+    <string name="show_all">Show all</string>
+    <string name="show_active">Show active</string>
+    <string name="show_not_active">Show completed</string>
+</resources>
